@@ -39,7 +39,7 @@ The project enables adjusting config parameters related to the training data sel
 The project contains following folders:
 - scripts - main script + additional modules 
 - resources - contains configurations, datasets, and optional saved models
-- plots - saved plots  
+- plots - created while saving plots  
 
 -----------
 <a name="req"></a>

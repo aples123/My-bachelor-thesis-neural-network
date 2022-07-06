@@ -9,7 +9,8 @@ Table of contents:
 
 -----------
 <a name="data"></a>
-## About the data 
+## About the data
+ 
 The data used in the project contains information about proteins, their measured mass spectra, sequences 
 assigned to the spectra by the MASCOT database system, and a value of MASCOT build-in measure of matching the 
 theoretical and experimental spectra. <br />

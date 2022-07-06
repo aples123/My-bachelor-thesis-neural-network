@@ -9,13 +9,13 @@ Table of contents:
 
 -----------
 <a name="data"></a>
-## About the data
- 
+## About the data <br />
 The data used in the project contains information about proteins, their measured mass spectra, sequences 
 assigned to the spectra by the MASCOT database system, and a value of MASCOT build-in measure of matching the 
 theoretical and experimental spectra. <br />
 The dataset consists of two main parts. The first one, called *target*, are the real biological sequences 
 matched by a database system to the measured samples. It can be a correct or incorrect match. The second one, called *decoy*, are fake, prepared sequences that the database system matched to the measured samples. <br />
+
 -----------
 <a name="project"></a>
 ## Purpose of the project

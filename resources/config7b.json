@@ -1,0 +1,1 @@
+{"filename": "7bialek.txt", "qval_threshold": 0.1, "learning_score_type": "MMT_score", "all_decoy": true, "initial_lr": 0.5, "epochs_number": 5000}
